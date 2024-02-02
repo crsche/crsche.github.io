@@ -5,13 +5,13 @@ title: A Social Imperative for Post-Quantum Cryptography
 
 ### A Social Imperative for Post-Quantum Cryptography
 
-In the ever-evolving world of technology, our digital interactions are at the core of our modern, information-driven society. As we marvel at the limitless potential of quantum computing, we must also grapple with the stark reality that it poses a formidable threat to the security of our digital world. This blog post serves as an introduction to the critical need for post-quantum cryptography, shedding light on the social implications of quantum advancements and the urgency to fortify our digital defenses.
+In an ever-evolving world of technology, our digital interactions are at the core of our modern, information-driven society. As we marvel at the limitless potential of quantum computing, we must also grapple with the stark reality that it poses a formidable threat to the security of our digital world. This blog post serves as an introduction to the critical need for post-quantum cryptography, shedding light on the social implications of quantum advancements and the urgency to fortify our digital defenses.
 
 #### Quantum Computing Unveiled
 
-To embark on this journey, let’s unravel the mysteries of quantum computing. Unlike classical computers that process information using bits in states of 0 or 1, quantum computers employ quantum bits or qubits. These qubits, thanks to the principles of superposition and entanglement [EXPLAIN], can exist in multiple states simultaneously, enabling quantum computers to perform complex calculations at unprecedented speeds.
+To embark on this journey, let’s unravel the mysteries of quantum computing. Unlike classical computers that process information using bits in states of 0 or 1, quantum computers employ quantum bits or qubits. These qubits, thanks to the principles of superposition and entanglement , can exist in multiple states simultaneously, enabling quantum computers to perform complex calculations at unprecedented speeds.
 
-While the promise of quantum computing is awe-inspiring, it also poses a profound threat to our existing cryptographic systems. Classical cryptographic algorithms, such as RSA and ECC [EXPLAIN], rely on mathematical problems that are computationally hard for traditional computers. However, the advent of quantum computers armed with Shor’s algorithm could unravel these algorithms swiftly, rendering our current encryption methods obsolete.
+While the promise of quantum computing is awe-inspiring, it also poses a profound threat to our existing cryptographic systems. Classical cryptographic algorithms, such as RSA and ECC , rely on mathematical problems that are computationally hard for traditional computers. However, the advent of quantum computers armed with Shor’s algorithm could unravel these algorithms swiftly, rendering our current encryption methods obsolete.
 
 #### The Vulnerabilities of Today
 
@@ -29,7 +29,7 @@ Businesses, too, face unprecedented risks. Corporate espionage, intellectual pro
 
 In response to the looming threat of quantum computing, the field of post-quantum cryptography has emerged as a beacon of hope. The objective is clear — to develop cryptographic algorithms that are secure against both classical and quantum computers. Unlike traditional approaches, post-quantum cryptography explores alternative mathematical problems that would remain challenging even in the face of quantum advancements.
 
-Lattice-based cryptography, hash-based cryptography, and code-based cryptography [EXPLAIN] are among the promising avenues being explored in the post-quantum era. These cryptographic approaches offer resilience against quantum attacks, providing a robust foundation for secure communication in a world where the rules of the game are rapidly changing.
+Lattice-based cryptography, hash-based cryptography, and code-based cryptography are among the promising avenues being explored in the post-quantum era. These cryptographic approaches offer resilience against quantum attacks, providing a robust foundation for secure communication in a world where the rules of the game are rapidly changing.
 
 #### Navigating the Transition
 
