@@ -1,3 +1,8 @@
+---
+layout: post
+title: Demystifying Post-Quantum Cryptography
+---
+
 # Demystifying Post-Quantum Cryptography
 
 Welcome to the fascinating realm of post-quantum cryptography, where traditional cryptographic methods meet the challenges posed by quantum computing advancements. In this blog, we'll embark on a journey from the basics to the societal implications of post-quantum cryptography, exploring the mathematics and computer science behind this cutting-edge field.
@@ -12,7 +17,7 @@ To comprehend this threat, let's consider Shor's algorithm. Proposed by mathemat
 
 ### Quantum-Resistant Approaches
 
-The quest for post-quantum security has led to the exploration of various cryptographic approaches. One prominent avenue is lattice-based cryptography, which relies on the complexity of lattice problems. Lattice-based cryptography offers resistance against quantum attacks, making it a strong candidate for post-quantum security  [@peikertDecadeLatticeCryptographya].
+The quest for post-quantum security has led to the exploration of various cryptographic approaches. One prominent avenue is lattice-based cryptography, which relies on the complexity of lattice problems. Lattice-based cryptography offers resistance against quantum attacks, making it a strong candidate for post-quantum security [@peikertDecadeLatticeCryptographya].
 
 ### The Math Behind Lattices
 
@@ -41,10 +46,11 @@ Stay tuned for future blogs as we delve deeper into specific post-quantum crypto
 ---
 
 **References:**
+
 1. Grumbling, E., & Horowitz, M. (Eds.). (2019). _Quantum Computing: Progress and Prospects_. National Academies Press. [https://doi.org/10.17226/25196](https://doi.org/10.17226/25196)
 2. Mavroeidis, V., Vishi, K., D., M., & Jøsang, A. (2018). The Impact of Quantum Computing on Present Cryptography. _International Journal of Advanced Computer Science and Applications_, _9_(3). [https://doi.org/10.14569/IJACSA.2018.090354](https://doi.org/10.14569/IJACSA.2018.090354)
 3. NIST to Standardize Encryption Algorithms That Can Resist Attack by Quantum Computers. (2023). _NIST_. [https://www.nist.gov/news-events/news/2023/08/nist-standardize-encryption-algorithms-can-resist-attack-quantum-computers](https://www.nist.gov/news-events/news/2023/08/nist-standardize-encryption-algorithms-can-resist-attack-quantum-computers)
 4. Peikert, C. (2016). A Decade of Lattice Cryptography. _Foundations and Trends® in Theoretical Computer Science_, _10_(4), 283–424. [https://doi.org/10.1561/0400000074](https://doi.org/10.1561/0400000074)
 5. Regev, O. (2009). On lattices, learning with errors, random linear codes, and cryptography. _Journal of the ACM_, _56_(6), 34:1-34:40. [https://doi.org/10.1145/1568318.1568324](https://doi.org/10.1145/1568318.1568324)
 
-*Note: This blog provides a broad overview, and subsequent posts will delve into specific aspects mentioned here.*
+_Note: This blog provides a broad overview, and subsequent posts will delve into specific aspects mentioned here._

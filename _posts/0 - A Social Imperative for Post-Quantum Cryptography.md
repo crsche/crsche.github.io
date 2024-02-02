@@ -1,3 +1,8 @@
+---
+layout: post
+title: A Social Imperative for Post-Quantum Cryptography
+---
+
 ### A Social Imperative for Post-Quantum Cryptography
 
 In the ever-evolving world of technology, our digital interactions are at the core of our modern, information-driven society. As we marvel at the limitless potential of quantum computing, we must also grapple with the stark reality that it poses a formidable threat to the security of our digital world. This blog post serves as an introduction to the critical need for post-quantum cryptography, shedding light on the social implications of quantum advancements and the urgency to fortify our digital defenses.
